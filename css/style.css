@@ -1,16 +1,15 @@
 h1 {
     color: red;
     margin-left: 20px;
+    background-color: rgb(74, 7, 230);
  }
 p {
     color: blue;
+    
  }
 
-.A #标题 {color: aqua;}
+.A  {color: aqua;}
 .B {color: green;}
-img {
-    transform: rotate(8deg);
-}
 
 h1 {font-family: 'Lobster', cursive;}
   .btn {
@@ -31,15 +30,7 @@ h1 {font-family: 'Lobster', cursive;}
     text-decoration: none;
   }
   
-  .btn:hover {
-    background: #40464a;
-    background-image: -webkit-linear-gradient(top, #40464a, #3c4347);
-    background-image: -moz-linear-gradient(top, #40464a, #3c4347);
-    background-image: -ms-linear-gradient(top, #40464a, #3c4347);
-    background-image: -o-linear-gradient(top, #40464a, #3c4347);
-    background-image: linear-gradient(to bottom, #40464a, #3c4347);
-    text-decoration: none;
-  }
 
+  
 
 
